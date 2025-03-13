@@ -1,0 +1,9 @@
+Model       Extra Trees Classifier
+Accuracy                    0.9847
+AUC                         0.9995
+Recall                       0.981
+Prec.                       0.9898
+F1                          0.9847
+Kappa                       0.9694
+MCC                         0.9707
+TT (Sec)                     0.088
